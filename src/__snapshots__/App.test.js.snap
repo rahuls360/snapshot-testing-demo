@@ -30,3 +30,11 @@ exports[`snapshot testing should render App correctly 1`] = `
   </header>
 </div>
 `;
+
+exports[`snapshot testing should render Child correctly 1`] = `
+<div
+  className="Child"
+>
+  I am the first child
+</div>
+`;
