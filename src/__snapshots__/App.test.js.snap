@@ -12,13 +12,6 @@ exports[`snapshot testing should render App correctly 1`] = `
       className="App-logo"
       src="logo.svg"
     />
-    <p>
-      Edit 
-      <code>
-        src/App.js
-      </code>
-       and save to reload.
-    </p>
     <a
       className="App-link"
       href="https://reactjs.org"

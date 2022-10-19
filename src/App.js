@@ -6,9 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,7 +22,7 @@ function App() {
 export function Child() {
   return (
     <div className="Child">
-     I am the first child
+     I am the child
     </div>
   );
 }
