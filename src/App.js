@@ -22,7 +22,7 @@ function App() {
 export function Child() {
   return (
     <div className="Child">
-     I am the child
+     I am the first child
     </div>
   );
 }
